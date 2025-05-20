@@ -4,3 +4,5 @@
 *.zip
 /v1/drive/Project Logs for drive
 /v1/drive/__Previews
+*.LOG
+/v2/drive/old
